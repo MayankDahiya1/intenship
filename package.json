@@ -1,0 +1,19 @@
+{
+  "name": "internship-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Dahiya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "md5": "^2.3.0",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
